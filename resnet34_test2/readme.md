@@ -1,0 +1,6 @@
+# 简介
+在test1的基础上进行了优化，使用了学习率调度器来逐步降低学习率，尝试使用带动量的SGD优化器
+
+test2训练所用代码为test2.ipynb
+
+test1与test2模型的结果对比为图output.png
